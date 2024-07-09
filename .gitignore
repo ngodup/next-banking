@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# build artifacts
+/.next
+/out
+/dist
+
+# environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+/coverage
+/.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+/nyc_output
+
+# editor/IDE specific f
