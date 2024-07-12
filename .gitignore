@@ -23,3 +23,6 @@
 /nyc_output
 
 # editor/IDE specific f
+
+# Sentry Config File
+.env.sentry-build-plugin

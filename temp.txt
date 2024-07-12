@@ -1,0 +1,8 @@
+Zod is simple and stateforward form validation tools, where AuthForm is client side, but i guess the 
+signup and signin are sever side not sure.
+
+
+2:32
+SERVER ACTIONS AND MUTATIONS
+'use server' or we can use app/actions.ts file
+Let create new folder called actions inside the lib folder, we can do     //Mutation /Database /Make Fetch
